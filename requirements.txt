@@ -1,0 +1,8 @@
+flask
+spacy
+nltk
+pdfplumber
+python-docx
+phonenumbers
+regex
+python-magic-bin; platform_system == "Windows"
